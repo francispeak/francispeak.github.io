@@ -1,3 +1,7 @@
+layout: page
+title: "test3"
+permalink: /test3/
+
 ## Welcome to MarkdownPad 2 ##
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
