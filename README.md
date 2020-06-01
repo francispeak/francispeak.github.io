@@ -11,7 +11,6 @@ I'm hosted with GitHub Pages.
 [Webcode Help Netlify](https://webcodehelp.netlify.app/)
 [How to remove HTML extension from GitHub Pages in 0 easy steps](https://rsp.github.io/gh-pages-no-extension/)
 
-
 [About](about)
 [Test1](test1)
 [Test2](test2)
