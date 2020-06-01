@@ -4,9 +4,6 @@
 
 I'm hosted with GitHub Pages.
 
-
-[Mark Down Pad] (MarkdownPad2) 
-
 > See: [get started](https://code.visualstudio.com/docs/getstarted/themes#_semantic-highlighting)
 [(https://code.visualstudio.com/docs/editor/github](https://code.visualstudio.com/docs/editor/github)
 [https://francispeak.github.io/](https://francispeak.github.io/)
@@ -19,3 +16,4 @@ I'm hosted with GitHub Pages.
 [Test1](test1)
 [Test2](test2)
 [Test3](test3)
+
