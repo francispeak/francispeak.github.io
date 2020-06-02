@@ -1,6 +1,6 @@
 layout: page
 title: "test3"
-permalink: /test3/
+permalink: /test3
 
 ## Welcome to MarkdownPad 2 ##
 
