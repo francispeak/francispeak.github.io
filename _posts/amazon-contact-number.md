@@ -1,4 +1,3 @@
-layout: page
 title: "Amazon Contact Phone Number"
 permalink: /Amazon-Contact-Number/
 categories: Orgs
